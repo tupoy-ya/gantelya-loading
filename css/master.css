@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+.img-dumbbell {
+    background-color: rgb(250, 229, 191);
+    margin: auto;
+    
+    display: block;
+}
+
+.img-dumbbell2 {
+    width: 20vw;
+    position: absolute;
+    top: 0;
+    display: block;
+}
+
+.img-dumbbell4 {
+    width: 20vw;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    display: block;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
